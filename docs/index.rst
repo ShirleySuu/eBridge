@@ -9,7 +9,6 @@ Welcome to Portkey's documentation!
 
 
 .. toctree::
-   :maxdepth: 1
    Introduction <Introduction/Introduction>
 
 
