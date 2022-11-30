@@ -9,7 +9,10 @@ Welcome to Portkey's documentation!
 
 
 .. toctree::
-   Introduction <Introduction/Introduction>
+   :maxdepth: 1
+   :caption: Introduction
+
+   Introduction <main_pages/Introduction/introduction>
 
 
 .. toctree::
