@@ -13,11 +13,11 @@ Welcome to Portkey's documentation!
 
 
 .. toctree::
-   :maxdepth: 1
    :caption: Help Center
-
-   Create New Address <main_pages/Help-Center/new-addr/index>
-   Import Existing Address <main_pages/Help-Center/existing-addr/index>
+   :maxdepth: 2
+   
+   Extension <Help-Center/Extension/index>
+   App <Help-Center/App/index>
    
    
 .. toctree::
