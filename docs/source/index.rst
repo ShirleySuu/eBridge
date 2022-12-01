@@ -22,6 +22,7 @@ Welcome to Portkey's Documentation!
 
    Create New Address <Help-Center/new-addr/index>
    Import Existing Address <Help-Center/existing-addr/index>
+   App <Help-Center/App/index>
 
 
 .. toctree::
