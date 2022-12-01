@@ -26,6 +26,8 @@ This project is under active development and may integrate with other blockchain
 
 .. toctree::
    :maxdepth: 1
-   :caption: Terms of Service
+   :caption: About Portkey
 
    Terms of Service <Terms-of-Service/Terms-of-Service>
+   Roadmap <Roadmap/Roadmap>
+   Key Links <Key-Links/Key-Links>
