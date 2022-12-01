@@ -24,3 +24,8 @@ This project is under active development and may integrate with other blockchain
    Import Existing Address <Help-Center/existing-addr/index>
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Terms of Service
+
+   Terms of Service <Terms-of-Service/Terms-of-Service>
