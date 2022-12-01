@@ -1,7 +1,6 @@
 
 .. toctree::
-  :caption: App
-  :maxdepth: 1
+  :maxdepth: 3
   
   Create New Address <How-to-Create-New-Address-(App)>
   Import Existing Address <How-to-Import-Existing-Address-(App)>
