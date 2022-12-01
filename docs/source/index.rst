@@ -17,10 +17,11 @@ Welcome to Portkey's Documentation!
    
    
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Help Center
 
    App <Help-Center/App/index>
+   Extension <Help-Center/Extension/index>
 
 
 .. toctree::
