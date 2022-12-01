@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Porkey'
-copyright = '2022, AELF'
+copyright = '2022, Portkey'
 author = 'AELF'
 
 release = '0.1'
