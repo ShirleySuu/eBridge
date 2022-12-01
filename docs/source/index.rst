@@ -25,7 +25,7 @@ This project is under active development and may integrate with other blockchain
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Terms of Service
 
    Terms of Service <Terms-of-Service/Terms-of-Service>
