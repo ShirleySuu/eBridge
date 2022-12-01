@@ -29,5 +29,5 @@ This project is under active development and may integrate with other blockchain
    :caption: About Portkey
 
    Terms of Service <Terms-of-Service/Terms-of-Service>
-   Roadmap <Roadmap/Roadmap>
-   Key Links <Key-Links/Key-Links>
+   Roadmap <Terms-of-Service/Roadmap>
+   Key Links <Terms-of-Service/Key-Links>
