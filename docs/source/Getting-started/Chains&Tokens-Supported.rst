@@ -1,6 +1,11 @@
 Chains 
 =======
 
-Starting from one
+aelf blockchain, Ethereum, EVM-compatible chains
 
-Currently, 7 tokens are supported by eBridge. 
+
+Tokens
+======
+
+Currently, more than 100 tokens are supported by eBridge. 
+
