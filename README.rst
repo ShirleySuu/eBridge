@@ -1,9 +1,4 @@
-Portkey to Web3
+eBeidge - making assets easy to bridge
 =======================================
 
-Portkey is the key to immersive Web3 experience
-
-Try it out here:
-
-https://
 
