@@ -4,27 +4,34 @@ eBeidge - making assets easy to bridge
 **eBridge** is a heterogenous cross-chain bridge that connects assets on aelf blockchain to chains like Ethereum.
 
 
-
 .. toctree::
    :maxdepth: 1
    :caption: Getting Started
 
    Introduction <Getting-Started/Introduction>
-   Introduction <Getting-Started/Chains&Tokens-Supported>
+   Chains & Tokens Supported <Getting-Started/Chains&Tokens-Supported>
    
    
 .. toctree::
-   :maxdepth: 2
-   :caption: Help Center
+   :maxdepth: 1
+   :caption: How It Works
 
-   App <Help-Center/App/index>
-   Extension <Help-Center/Extension/index>
+   Cross-chain transfer <How-It-Works/cross-chain-transfer>
+   Liquidity management <How-It-Works/Liquidity-management>
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: About Portkey
+   :caption: Listing & Integration
 
-   Terms of Service <Terms-of-Service/Terms-of-Service>
-   Roadmap <Terms-of-Service/Roadmap>
-   Key Links <Terms-of-Service/Key-Links>
+   List your token <Listing&Integration/List-your-token>
+   Integrate your chain <Listing&Integration/Integrate-your-chain>
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Developer Guide
+   
+   API <Developer-Guide/API>
+   
+   
