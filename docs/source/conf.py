@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Porkey'
-copyright = '2022, Portkey'
-author = 'AELF'
+project = 'eBridge'
+copyright = '2022, eBridge'
+author = 'eBridge'
 
 release = '0.1'
 version = '0.1.0'
