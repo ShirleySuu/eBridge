@@ -8,8 +8,8 @@ eBeidge - making assets easy to bridge
    :maxdepth: 1
    :caption: Getting Started
 
-   Introduction <Getting-Started/Introduction>
-   Chains & Tokens Supported <Getting-Started/Chains&Tokens-Supported>
+   Introduction <Getting-started/Introduction>
+   Chains & Tokens Supported <Getting-started/Chains&Tokens-Supported>
    
    
 .. toctree::
