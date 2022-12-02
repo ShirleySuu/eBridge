@@ -1,19 +1,16 @@
-Welcome to Portkey's Documentation!
+eBeidge - making assets easy to bridge
 ===================================
 
-**Portkey** is an all-in-one wallet designed for assets on aelf blockchain.
-
-.. note::
-
-   This project is under active development and may integrate with other blockchains in the future.
+**eBridge** is a heterogenous cross-chain bridge that connects assets on aelf blockchain to chains like Ethereum.
 
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introduction
+   :caption: Getting Started
 
-   Introduction <Introduction/introduction>
+   Introduction <Getting-Started/Introduction>
+   Introduction <Getting-Started/Chains&Tokens-Supported>
    
    
 .. toctree::
